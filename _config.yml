@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: A wparedes17's blog
-description: A first try
+name: Un blog de wparedes17
+description: Un blog sobre lo que hago y me interesa.
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://scotte.github.io/jekyll-clean
